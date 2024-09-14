@@ -1,0 +1,44 @@
+{
+ 
+  "name": "dopamin_tutorial",
+ 
+  "version": "1.0.0",
+ 
+  "main": "index.js",
+ 
+  "type": "module",
+ 
+  "scripts": {
+ 
+   
+  "test": "echo \"Error: no test specified\" && exit 1",
+ 
+   
+  "start": "nodemon index.js"
+ 
+  },
+ 
+  "keywords": [],
+ 
+  "author": "",
+ 
+  "license": "ISC",
+ 
+  "description": "",
+ 
+  "dependencies": {
+ 
+   
+  "express": "^4.21.0",
+ 
+   
+  "mysql2": "^3.11.2",
+ 
+   
+  "nodemon": "^3.1.4",
+ 
+   
+  "uuid": "^10.0.0"
+ 
+  }
+}
